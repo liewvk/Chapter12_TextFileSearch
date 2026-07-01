@@ -1,0 +1,12 @@
+Search Source File: sample.txt
+Search Keyword: C++
+------------------------------------
+Line 1: C++ is a powerful programming language.
+Line 3: Many desktop applications are created using C++.
+Line 4: C++ supports object-oriented programming.
+Line 5: Modern C++ provides useful features for safer programming.
+Line 8: Many systems are built using C++.
+Line 9: Learning C++ through projects can improve programming confidence.
+Line 10: File handling is an important skill in C++.
+
+Total matching lines: 7

@@ -1,0 +1,10 @@
+C++ is a powerful programming language.
+It is used to build fast and efficient applications.
+Many desktop applications are created using C++.
+C++ supports object-oriented programming.
+Modern C++ provides useful features for safer programming.
+Python is also popular for scripting and AI.
+Java is commonly used for enterprise applications.
+Many systems are built using C++.
+Learning C++ through projects can improve programming confidence.
+File handling is an important skill in C++.
